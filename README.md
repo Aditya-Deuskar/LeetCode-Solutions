@@ -41,4 +41,5 @@ A collection of LeetCode questions and their solutions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [2383-add-two-integers](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
