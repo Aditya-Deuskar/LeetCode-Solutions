@@ -12,6 +12,7 @@ A collection of LeetCode questions and their solutions
 | [0088-merge-sorted-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions and their solutions
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
