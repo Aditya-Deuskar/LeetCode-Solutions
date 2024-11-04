@@ -10,6 +10,7 @@ A collection of LeetCode questions and their solutions
 | [0027-remove-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions and their solutions
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
