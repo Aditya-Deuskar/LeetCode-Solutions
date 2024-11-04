@@ -42,4 +42,12 @@ A collection of LeetCode questions and their solutions
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/2383-add-two-integers) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
