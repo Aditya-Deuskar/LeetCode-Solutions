@@ -13,6 +13,7 @@ A collection of LeetCode questions and their solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
