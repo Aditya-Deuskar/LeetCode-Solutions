@@ -23,6 +23,7 @@ A collection of LeetCode questions and their solutions
 | [0088-merge-sorted-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1894-merge-strings-alternately](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,5 @@ A collection of LeetCode questions and their solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
