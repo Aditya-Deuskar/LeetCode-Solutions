@@ -33,6 +33,7 @@ A collection of LeetCode questions and their solutions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions and their solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2383-add-two-integers](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Tree
@@ -66,6 +68,7 @@ A collection of LeetCode questions and their solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
