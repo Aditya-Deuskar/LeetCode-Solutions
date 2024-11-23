@@ -8,6 +8,7 @@ A collection of LeetCode questions and their solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions and their solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions and their solutions
 | [0013-roman-to-integer](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
