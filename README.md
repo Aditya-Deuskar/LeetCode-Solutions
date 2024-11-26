@@ -6,6 +6,7 @@ A collection of LeetCode questions and their solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions and their solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Aditya-Deuskar/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
